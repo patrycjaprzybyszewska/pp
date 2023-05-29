@@ -10,7 +10,7 @@ class Interface{
     public:
     virtual void Randomword()= 0;
     virtual void Check() = 0;
-    
+    virtual void AskIf() = 0;
     virtual ~Interface(){}
 };
 int lives =15;
