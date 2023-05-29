@@ -13,7 +13,7 @@ class Interface{
     
     virtual ~Interface(){}
 };
-int lives =20;
+int lives =15;
 int a = 1;
 class GenerateWord {
  
